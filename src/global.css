@@ -1,0 +1,27 @@
+@font-face{
+    font-family: 'Phoenica STD Demo';
+    src: local('Phoenica STD Demo'), local('Phoenica STD Demo'), url('./Assets/Fonts/PhoenicaSTDDemo.otf'), format('OpenType');
+}
+
+body{
+    font-family: 'Phoenica STD Demo';
+}
+
+:root{
+    --main-font: "Phoenica STD Demo";
+
+    --primary-color: "#b28420";
+
+    --secondary-color: "#4A453B";
+
+    --tertiary-color: "#524C3E";
+
+    --quaternary-color: "#ffffff";
+
+
+    --quinary-color: "#ffffff";
+
+    --black-color: "#010101";
+
+    --white-color: "#fafafa";
+}
